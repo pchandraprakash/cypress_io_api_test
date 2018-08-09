@@ -23,4 +23,4 @@ Download the zip file and unzip the contents to a folder.
 
 After unzipping the folder, we open Cypress.app file.
 
-![Alt text](G:\Personal\To Upload\Evive\cypressApp.JPG)
+![Screenshot](G:\Personal\To Upload\Evive\cypressApp.JPG)
