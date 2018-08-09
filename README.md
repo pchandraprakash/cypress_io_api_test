@@ -23,4 +23,4 @@ Download the zip file and unzip the contents to a folder.
 
 After unzipping the folder, we open Cypress.app file.
 
-![ScreenShot](G:/Personal/ToUpload/Evive/cypressApp.jpg?raw=true "Cypress Application Icon")
+![ScreenShot](https://github.com/pchandraprakash/cypress_io_api_test/blob/master/images/cypressApp.JPG "Cypress Application Icon")
