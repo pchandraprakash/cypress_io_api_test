@@ -44,3 +44,6 @@ Tests can be run in Chrome or Electron browser
 Tests after successful run
 
 ![ScreenShot](https://github.com/pchandraprakash/cypress_io_api_test/blob/master/images/SuccessTest.JPG)
+
+**Step 5: Access the output files under result folder"**
+Location: https://github.com/pchandraprakash/cypress_io_api_test/tree/master/results
