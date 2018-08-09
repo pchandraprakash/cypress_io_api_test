@@ -1,6 +1,4 @@
-## cypress_io_api_test
-
-**How to run this project**
+## How to run this project?
 
 **Step 1: Install cypress**
 
