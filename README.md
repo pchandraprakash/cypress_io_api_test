@@ -23,7 +23,7 @@ Download the zip file and unzip the contents to a folder.
 
 After unzipping the folder, we open Cypress.app file.
 
-![ScreenShot](https://github.com/pchandraprakash/cypress_io_api_test/blob/master/images/cypressApp.JPG "Cypress Application Icon")
+![ScreenShot](https://github.com/pchandraprakash/cypress_io_api_test/blob/master/images/cypressApp.JPG)
 
 **Step 3: Clone/Download the following reposotory"
 
@@ -33,6 +33,12 @@ https://github.com/pchandraprakash/cypress_io_api_test/tree/master/Cypress_REST_
 
 Import the entire project folder. Once the project is imported successfully, the Cypress app will display all the .JS files under "Integration" folder.
 
+![ScreenShot](https://github.com/pchandraprakash/cypress_io_api_test/blob/master/images/CypressProjectImport.JPG)
+
 We can run them individually or we can run them all by selecting "Run all specs" option.
 
+![ScreenShot](https://github.com/pchandraprakash/cypress_io_api_test/blob/master/images/RunOptions.JPG)
+
 Tests can be run in Chrome or Electron browser
+
+![ScreenShot](https://github.com/pchandraprakash/cypress_io_api_test/blob/master/images/browserOptions.JPG)
