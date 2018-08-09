@@ -29,7 +29,7 @@ After unzipping the folder, we open Cypress.app file.
 
 https://github.com/pchandraprakash/cypress_io_api_test/tree/master/Cypress_REST_API_Test
 
-**Step 4: Drag the newly downloaded/cloned project or browse the project location"**
+**Step 4: Drag the newly downloaded/cloned project or browse the project location and run the tests**
 
 Import the entire project folder. Once the project is imported successfully, the Cypress app will display all the .JS files under "Integration" folder.
 
@@ -42,3 +42,7 @@ We can run them individually or we can run them all by selecting "Run all specs"
 Tests can be run in Chrome or Electron browser
 
 ![ScreenShot](https://github.com/pchandraprakash/cypress_io_api_test/blob/master/images/browserOptions.JPG)
+
+Tests after successful run
+
+![ScreenShot](https://github.com/pchandraprakash/cypress_io_api_test/blob/master/images/SuccessTest.JPG)
